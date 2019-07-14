@@ -1,6 +1,12 @@
 # SAILS-REACT BOILERPLATE
 
-Sails-React boilerplate with Reacstrap
+A simple Sails-React boilerplate with Reacstrap
+
+
+## Commands
+
+-> npm run start:client "for lifting the front-end React side"
+-> npm run start:server "for lifting the back-end Sails side"
 
 
 ### Version info
