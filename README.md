@@ -1,4 +1,4 @@
-# example
+# SAILS-REACT BOILERPLATE
 
 Sails-React boilerplate with Reacstrap
 
