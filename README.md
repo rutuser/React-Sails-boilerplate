@@ -3,8 +3,6 @@
 Sails-React boilerplate with Reacstrap
 
 
-### Links
-
 ### Version info
 
 This app was originally generated on Sun Jul 14 2019 12:55:08 GMT+0100 (Western European Summer Time) using Sails v1.2.3.
